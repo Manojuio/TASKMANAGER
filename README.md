@@ -1,4 +1,4 @@
-# Real-Time Collaboration & Task Management Backend
+# Task Management Backend
 
 A backend-heavy system for managing workspaces, projects, and tasks with authentication, role-based access control, and clean backend architecture.
 
